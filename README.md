@@ -1,7 +1,5 @@
 # Python期末项目总结
 [pythonanywhere](http://jjyy2.pythonanywhere.com/)
-- github文档（templates、static、app.py、数据文档）
-- 上述文档都存放在github页面中，请上移页面查看。
 
 ## 一、HTML档描述
 ### 此作业共制作了7个页面
@@ -19,6 +17,8 @@
 
   
 ## 二 python档描述
+### github文档（templates、static、app.py、数据文档）
+#### 上述文档都存放在github页面中，请上移页面查看。
 - 在python档中赋予不同html文件不同的跳转地址并且开展出不同功能，实现python文档与html文档的数据交互
 - 运用到结构嵌套在页面中嵌套数据交互可视化数据图表。pyecharts的模块画散点、条形图等，并将部分图以html文件的方式导出
 - pandas读csv文件（文件内路径与pythonanywhere不同）
